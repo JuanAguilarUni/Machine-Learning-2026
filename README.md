@@ -6,8 +6,8 @@
 ## Hands-on 4
 * [Enlace a Hands-on 4](https://colab.research.google.com/drive/1PSs1GGxhHYa1239KKDpsby21O3gOXZZZ?usp=sharing)
 
-## Hands-on 5
-* [Enlace a Hands-on 5](https://colab.research.google.com/drive/1VGe_MHp_EcGsA6sK87INmg4XCLK2fLNx?usp=sharing)
-
 ## Hands-on 6
 * [Enlace a Hands-on 6](https://colab.research.google.com/drive/1t0K06D6pq3t3xEdSTI6kaPq7ocpTCUlK?usp=sharing)
+
+## REGULA Hands-on 5: Kmeans
+* [Enlace a Hands-on 5: Kmeans](https://colab.research.google.com/drive/1s9tqksHFF70onnFFGhje1KMcd2unW59_?usp=sharing)
